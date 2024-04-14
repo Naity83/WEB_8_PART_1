@@ -1,0 +1,2 @@
+1. Код на подсоединение: mongodb+srv://web8:150209@cluster0.tn5gmti.mongodb.net/?retryWrites=true&w=majority&appName=Cluster0
+2. Для редиса запускаем его через контейнер
